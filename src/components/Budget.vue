@@ -2,7 +2,7 @@
 import Calculator from './Budget/Calculator.vue'
 </script>
 <template>
-  <div class="bg-white" id="economize">
+  <div class="bg-white  py-24 sm:py-32" id="economize">
     <div class="px-6 sm:px-6 lg:px-8">
       <div class="mx-auto max-w-4xl text-center">
         

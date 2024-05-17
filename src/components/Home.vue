@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-white" id="home">
+  <div class="bg-white py-24 sm:py-32" id="home">
     <header class="absolute inset-x-0 top-0 z-50">
       <div class="mx-auto max-w-7xl">
         <div class="px-6 pt-6 lg:max-w-2xl lg:pl-8 lg:pr-0">
