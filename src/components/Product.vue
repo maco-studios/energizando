@@ -1,7 +1,7 @@
 <template>
   <div class="bg-white " id="product">
     <div class="relative w-full">
-      <img src="/assets/img/pexels-kindelmedia-9875676.png" alt="Background Image" class="w-full" height="300px" />
+      <img src="./assets/img/pexels-kindelmedia-9875676.png" alt="Background Image" class="w-full" height="300px" />
       <div class="absolute inset-0 bg-gradient-to-b from-transparent to-white"></div>
     </div>
     <div class="relative mx-auto max-w-7xl px-6 lg:px-8" style="top:-40vh">

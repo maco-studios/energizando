@@ -63,7 +63,7 @@
         </div>
       </div>
       <div class="bg-gray-50 lg:absolute lg:inset-y-0 lg:right-0 lg:w-1/2">
-        <img class="aspect-[3/2] object-cover lg:aspect-auto lg:h-full lg:w-full" src="/assets/img/pexels-red-zeppelin-4148472.jpg" alt="" />
+        <img class="aspect-[3/2] object-cover lg:aspect-auto lg:h-full lg:w-full" src="./assets/img/pexels-red-zeppelin-4148472.jpg" alt="" />
       </div>
     </div>
   </div>
