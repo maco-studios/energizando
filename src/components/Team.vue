@@ -27,12 +27,12 @@ const people = [
   {
     name: 'Mikael NF Oliveira',
     role: 'Co-Founder / CEO',
-    imageUrl: '../assets/img/team/mikael.jpg',
+    imageUrl: './assets/img/team/mikael.jpg',
   },
   {
     name: "Taciane Moura",
     role: 'Co-Founder / CFO',
-    imageUrl: '../assets/img/team/taciane.jpg',
+    imageUrl: './assets/img/team/taciane.jpg',
   }
 ]
 </script>
