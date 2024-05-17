@@ -1,10 +1,6 @@
 <template>
   <div class="bg-white " id="product">
-    <div class="relative w-full">
-      <img src="/assets/img/pexels-kindelmedia-9875676.png" alt="Background Image" class="w-full" height="300px" />
-      <div class="absolute inset-0 bg-gradient-to-b from-transparent to-white"></div>
-    </div>
-    <div class="relative mx-auto max-w-7xl px-6 lg:px-8" style="top:-40vh">
+    <div class="relative mx-auto max-w-7xl px-6 lg:px-8">
       <div class="mx-auto max-w-2xl lg:text-center">
         <p class="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Benefícios da Energia Solar</p>
         <p class="mt-6 text-lg leading-8 text-gray-600">Nossos sistemas de energia solar são projetados para máximo desempenho, garantindo que sua casa seja abastecida por energia limpa e renovável. Com tecnologia de ponta, oferecemos soluções que se adaptam perfeitamente ao seu consumo e ao perfil do seu telhado.</p>
